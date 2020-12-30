@@ -1,6 +1,8 @@
 # User Directory React Application
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+  
+  [Link to Deployed Application](https://brennandoehring.github.io/userdirectory)
+  
   ## Table of Contents
   - [Description](https://github.com/brennandoehring/userdirectory#description)
   - [Usage](https://github.com/brennandoehring/userdirectory#usage)
